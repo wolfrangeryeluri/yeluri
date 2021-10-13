@@ -1,0 +1,2 @@
+@echo off
+set path=c:\windows\microsoft.net\framework\v2.0.50727;%path%;
